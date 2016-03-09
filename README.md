@@ -1,1 +1,1 @@
-# Naberly
+# Naberly Android Application.
